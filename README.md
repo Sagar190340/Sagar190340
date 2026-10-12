@@ -9,8 +9,8 @@
 
 > cat about.txt
 
-name        : Sagar Dhar
-focus       : Ethical Hacking, Penetration Testing, Digital Forensics
+        Sagar Dhar
+       Ethical Hacking, Penetration Testing, Digital Forensics
 studying    : BCA (Cybersecurity & Digital Forensics)
 building    : Security tools that solve real problems
 mindset     : Break it ethically, document it, fix it
